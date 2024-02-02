@@ -1,0 +1,32 @@
+.google {
+    height: 40px;
+    width: 40px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.work {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
+
+.icon {
+    border: 1px solid #ca3434;
+    height: 20px;
+    width: 20px;
+    transform: rotate(45deg);
+    color: white
+}
+
+.info {
+    display: flex;
+    gap: 10px;
+}
+
+.info_title {
+    font-weight: 800;
+}
