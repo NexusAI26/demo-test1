@@ -1,0 +1,8 @@
+git init   (.git file)    (*)
+git add . ( add all elements  in the current directory to be committed)
+git commit -am "message"    (commit to the github with commit message)
+git remote add origin "url"     (connect your repository from Github)    (*)
+git  push -u origin master       (push your changes to the server)
+
+
+git status    (shows the modified  files, new untracked files, and deleted files since the last commit. This need to be pushed.)
